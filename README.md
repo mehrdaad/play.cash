@@ -1,5 +1,7 @@
 # [Play](https://play.cash) ([play.cash](https://play.cash))
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/feross/play.cash.svg?token=541f70225bd33ff3c158cb6818cae5b2500084bef3c3f34a5c9ec364d7c0ef70&ts=1519350804673)](https://greenkeeper.io/)
+
 ### Music lovers, rejoice.
 
 Music videos with insider song facts.
